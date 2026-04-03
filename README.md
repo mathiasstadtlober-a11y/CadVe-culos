@@ -21,4 +21,4 @@ Projeto acadêmico em Java seguindo a estrutura com dois arquivos (`Input.java` 
 
 ## Integrantes
 
-- Preencher com os nomes completos dos integrantes
+- Mathias Karling Stadtlober-116251
